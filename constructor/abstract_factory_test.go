@@ -1,4 +1,4 @@
-package abstract_factory
+package constructor
 
 import (
 	"testing"

@@ -1,3 +1,3 @@
-module design_patterns
+module "github.com/zach030/design-pattern"
 
 go 1.14
